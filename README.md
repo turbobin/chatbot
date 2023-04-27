@@ -29,19 +29,19 @@
 1. fork 此项目
 2. 设置一下 Github Page
 
-![cover](./images/github_page.png)
+![cover](https://turbobin.github.io/chatbot/images/github_page.png)
 
 ## 界面
 
-![cover](./images/pic_1.png)
+![cover](https://turbobin.github.io/chatbot/images/pic_1.png)
 
-![cover](./images/pic_2.png)
+![cover](https://turbobin.github.io/chatbot/images/pic_2.png)
 
-![cover](./images/pic_3.png)
+![cover](https://turbobin.github.io/chatbot/images/pic_3.png)
 
 权限控制，用户可获取管理员生成的口令增加次数：
 
-![cover](./images/pic_4.png)
+![cover](https://turbobin.github.io/chatbot/images/pic_4.png)
 
 ## 交流
 
