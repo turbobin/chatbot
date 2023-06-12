@@ -43,11 +43,11 @@
 
 **管理员端：**
 
-![cover](https://turbobin.github.io/chatbot/images/pic_4.png)
+![cover](https://turbobin.github.io/chatbot/images/pic_6.png)
 
 **用户端：**
 
-![cover](https://turbobin.github.io/chatbot/images/pic_5.png)
+![cover](https://turbobin.github.io/chatbot/images/pic_4.png)
 
 
 
