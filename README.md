@@ -41,7 +41,32 @@
 
 权限控制，用户可获取管理员生成的口令增加次数：
 
+**管理员端：**
+
 ![cover](https://turbobin.github.io/chatbot/images/pic_4.png)
+
+**用户端：**
+
+![cover](https://turbobin.github.io/chatbot/images/pic_5.png)
+
+
+
+## 微信机器人
+
+企业微信版本接入了 NewBing、ChatGPT3.5、GPT-4 三个机器人，微信中可直接扫描下面二维码添加后使用。
+
+> 若二维码过期可先添加微信加入。
+
+<div align=left>
+	<img src="https://turbobin.github.io/chatbot/images/qrcode_258.png" width="300" height="350"/>
+</div>
+
+<div align=left>
+	<img src="https://turbobin.github.io/chatbot/images/pic_11.jpg" width="400" height="500"/>
+    <img src="https://turbobin.github.io/chatbot/images/pic_12.jpg" width="400" height="400"/>
+</div>
+
+
 
 ## 交流
 
