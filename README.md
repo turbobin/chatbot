@@ -10,6 +10,12 @@
 
 [✓] admin用户设置，用户VIP权限控制
 
+[✓] 用户管理、角色管理
+
+[✓] keys 管理、模型设置管理
+
+[✓] 提示词管理
+
 [✓] 历史会话保存，导出
 
 [✓] 自定义敏感词
@@ -35,19 +41,35 @@
 
 ![cover](https://turbobin.github.io/chatbot/images/pic_1.png)
 
-![cover](https://turbobin.github.io/chatbot/images/pic_2.png)
+![cover](https://turbobin.github.io/chatbot/images/pic_10.png)
 
 ![cover](https://turbobin.github.io/chatbot/images/pic_3.png)
 
 权限控制，用户可获取管理员生成的口令增加次数：
 
-**管理员端：**
+### 管理员端
 
 ![cover](https://turbobin.github.io/chatbot/images/pic_6.png)
 
-**用户端：**
+用户管理：
+
+![cover](https://turbobin.github.io/chatbot/images/pic_7.png)
+
+key 管理：
+
+![cover](https://turbobin.github.io/chatbot/images/pic_8.png)
+
+### 用户端
 
 ![cover](https://turbobin.github.io/chatbot/images/pic_4.png)
+
+### 提示词管理
+
+管理员可以在提示词管理界面添加/编辑/删除提示词，提示词会同步给所有用户看到，显示的类型为 `System`，用户也可以自主添加自己的提示词，类型为 `User`。
+
+**管理员端设置的提示词不能被用户编辑，也不会完整的显示给用户，此种做法是为了保护提示词的创作性。**
+
+![cover](https://turbobin.github.io/chatbot/images/pic_9.png)
 
 
 
@@ -60,11 +82,11 @@
 <div align=left>
 	<img src="https://turbobin.github.io/chatbot/images/qrcode_258.png" width="300" height="350"/>
 </div>
-
 <div align=left>
-	<img src="https://turbobin.github.io/chatbot/images/pic_11.jpg" width="400" height="500"/>
-    <img src="https://turbobin.github.io/chatbot/images/pic_12.jpg" width="400" height="400"/>
+	<img src="https://turbobin.github.io/chatbot/images/pic_11.jpg" width="350" height="500"/>
+    <img src="https://turbobin.github.io/chatbot/images/pic_12.jpg" width="450" height="400"/>
 </div>
+
 
 
 
